@@ -49,15 +49,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>  
 
-### ⚙️ Tools & Platforms  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" width="40"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Google_Colaboratory_SVG_Logo.svg" width="40"/>
-
----
 
 ## 🧠 Certifications
 - Git & GitHub – Exelr (2024)  
