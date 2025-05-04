@@ -23,7 +23,7 @@
 
 ---
 
-## 💞️ I’m looking to collaborate on:
+##  I’m looking to collaborate on:
 - Open-source AI/ML research projects  
 - AI-powered automation tools  
 - Data-driven solutions for sustainability  
