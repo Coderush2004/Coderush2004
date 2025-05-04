@@ -23,7 +23,7 @@
 
 ---
 
-##  I’m looking to collaborate on:
+## 💞️ I’m looking to collaborate on:
 - Open-source AI/ML research projects  
 - AI-powered automation tools  
 - Data-driven solutions for sustainability  
@@ -40,15 +40,12 @@
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack
+- **Languages**: Core Java, SQL, Python  
+- **Libraries/Tools**: Google Colab, GitHub, LaTeX, Kaggle  
+- **Domains**: Generative AI, NLP, Data Structures, Algorithms, Web Dev  
 
-### 🧠 Languages & Frameworks  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>  
-
+---
 
 ## 🧠 Certifications
 - Git & GitHub – Exelr (2024)  
@@ -66,4 +63,3 @@
 Coderush2004/Coderush2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
