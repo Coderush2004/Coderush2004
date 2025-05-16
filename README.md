@@ -23,7 +23,7 @@
 
 ---
 
-##  I’m looking to collaborate on:
+## 🤝 I’m looking to collaborate on:
 - Open-source AI/ML research projects  
 - AI-powered automation tools  
 - Data-driven solutions for sustainability  
@@ -41,9 +41,16 @@
 ---
 
 ## 💻 Tech Stack
-- **Languages**: Core Java, SQL, Python  
-- **Libraries/Tools**: Google Colab, GitHub, LaTeX, Kaggle  
-- **Domains**: Generative AI, NLP, Data Structures, Algorithms, Web Dev  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+</div>
 
 ---
 
